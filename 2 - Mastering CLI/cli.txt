@@ -35,7 +35,7 @@ find . -type f
 find . -type d
 
 - Change Directory
-cd
+cd "[name of the folder]"
 
 - Go back one directory
 cd ..
